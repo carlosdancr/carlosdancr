@@ -1,4 +1,6 @@
-## Olá!, Eu sou o Carlos Daniel 👋
+## Olá, amigos 😀
+
+Comecei minha jornada como desenvolvedor front-end faz aproximadamente um ano, quando iniciei meus estudos com programação. Desde então venho me apaixonando cada vez mais pelo front-end. Atualmente estou focado em aprender e aperfeiçoar meus conhecimentos em JavaScript.
 
 <div>
  <a href="https://github.com/carlosdancr">
