@@ -1,7 +1,5 @@
 ## Olá, amigos 😀
 
-Comecei minha jornada como desenvolvedor front-end faz aproximadamente um ano, quando iniciei meus estudos com programação. Desde então venho me apaixonando cada vez mais pelo front-end. Atualmente estou focado em aprender e aperfeiçoar meus conhecimentos em JavaScript.
-
 <div>
  <a href="https://github.com/carlosdancr">
  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdancr&layout=compact&langs_count=7&theme=dracula"/>
@@ -15,7 +13,7 @@ Comecei minha jornada como desenvolvedor front-end faz aproximadamente um ano, q
  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
  
-##
+ #
 
 <div> 
  <a href="https://www.linkedin.com/in/carlosdancr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
