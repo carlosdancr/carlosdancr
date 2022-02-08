@@ -26,11 +26,6 @@
     
 ![Snake animation](https://github.com/carlosdancr/carlosdancr/blob/output/github-contribution-grid-snake.svg)
   
-## 🚀 Projetos recentes 
-[![Cartão Personalizado | Nubank](https://github-readme-stats.vercel.app/api/pin/?username=carlosdancr&repo=cartao-personalizado&theme=react&border_radius=8&hide_border=true&bg_color=2D333B)](https://github.com/carlosdancr/cartao-personalizado)
-[![Pokédex](https://github-readme-stats.vercel.app/api/pin/?username=carlosdancr&repo=pokedex&theme=react&border_radius=8&hide_border=true&bg_color=2D333B)](https://github.com/carlosdancr/pokedex)
-
-  
 
  
 
