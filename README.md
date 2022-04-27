@@ -1,4 +1,4 @@
-## Olá me chamo Carlos Daniel, sou dev front-end e ui designer 👋
+## Olá me chamo Carlos Daniel, sou dev front-end & ui designer 👋
 
 <div>
   <a href="https://github.com/carlosdancr">
